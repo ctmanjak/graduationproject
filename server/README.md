@@ -1,1 +1,1 @@
-
+기본적인 Router, DB 모델 설정, auth 폴더 내 파일 등 다른 팀원이 기반을 작성하고 본인은 rfid 폴더, socket.io 설정 등을 함
